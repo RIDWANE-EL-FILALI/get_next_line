@@ -14,7 +14,7 @@ This task is crucial to understand for a future programmer since much of the tim
 for data management and persistence.
 This project consists of coding a function that returns one line at a time from a text file.
 ```
-You can read the project subject [here](https://github.com/jlima91/get_next_line_42/blob/master/get_next_line.pdf)
+You can read the project subject [here](https://github.com/RIDWANE-EL-FILALI/get_next_line/blob/master/get_next_line_subject.pdf)
 
 # 🐱‍💻Grade and Badge 
 ![image](https://user-images.githubusercontent.com/85964972/132258308-4a7ceea0-b212-4a51-a300-88c9bd1706ef.png)
@@ -25,40 +25,5 @@ You can read the project subject [here](https://github.com/jlima91/get_next_line
 * Algorithms & AI 
 
 # 📱REACH ME
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Made by RIDWANE EL FILALI 👋 [See my linkedin](https://www.linkedin.com/in/ridwane-elfilali-0ab7aa253/)
