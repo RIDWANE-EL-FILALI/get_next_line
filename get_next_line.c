@@ -37,7 +37,7 @@ char *get_next_line(int fd)
     return (line);
 }
 
-int	main(void)
+/*int	main(void)
 {
 	int fd;
     char *tab;
@@ -54,4 +54,4 @@ int	main(void)
     printf("%s", tab);
     close(fd);
 	return (0);
-}
+}*/
