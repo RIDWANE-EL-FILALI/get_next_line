@@ -17,7 +17,7 @@ This project consists of coding a function that returns one line at a time from 
 You can read the project subject [here](https://github.com/RIDWANE-EL-FILALI/get_next_line/blob/master/get_next_line_subject.pdf)
 
 # 💻Badge 
-![image](https://user-images.githubusercontent.com/85964972/132258308-4a7ceea0-b212-4a51-a300-88c9bd1706ef.png)
+![image](https://github.com/RIDWANE-EL-FILALI/42_badges_1337/blob/master/get_next_linen.png)
 
 # 📚Skills
 * Rigor
