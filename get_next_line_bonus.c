@@ -26,7 +26,7 @@ char    *ft_read(int fd, char *str)
 char    *get_next_line(int fd)
 {
     char        *line;
-    static char *str[4096];
+    static char *str[1024];
 
     if (fd < 0 || BUFFER_SIZE <= 0)
         return (0);
